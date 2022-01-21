@@ -4,6 +4,9 @@
 .banner-color-btn {
     background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
 }
+.bg-main-color{
+    background: #F4F4F4;
+}
 .banner-color{
     color: #FF136F;
 }
