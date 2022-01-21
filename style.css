@@ -2,7 +2,7 @@
     background-color: #FEEAE9;
 }
 .banner-color-btn {
-    background: #FF136F;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
 }
 .banner-color{
     color: #FF136F;
