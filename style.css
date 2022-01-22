@@ -1,6 +1,9 @@
-.banner-bg{
+.banner-bg,.email-bg{
     background-color: #FEEAE9;
 }
+/* .email-bg{
+    background-color: #FEEAE9;
+} */
 .banner-color-btn {
     background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
 }
